@@ -2,7 +2,7 @@
 
 ### Platform Engineer & Full Stack Developer · Mexicali, México
 
-Construyo y opero infraestructura empresarial: virtualización, networking, contenedores e IA self-hosted. Combino eso con desarrollo Full Stack moderno (Next.js, Node.js, TypeScript) para construir soluciones end-to-end.
+Construyo y opero infraestructura empresarial: virtualización, networking, contenedores e IA self-hosted. Combino eso con desarrollo Full Stack moderno (Next.js, Node.js, JavaScript, TypeScript) para construir soluciones end-to-end.
 
 ---
 
